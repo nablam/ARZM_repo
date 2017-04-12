@@ -6,5 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SimpleShare.unity
+    guid: c41edfcca3a62aa4d804a55923e46d07
+  - enabled: 0
     path: Assets/Scenes/SceneEmpty.unity
     guid: 78cb323033ac14a4281e503541d94423

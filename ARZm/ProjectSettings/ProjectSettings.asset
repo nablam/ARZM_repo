@@ -506,11 +506,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: ARZm
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: D:\_nabdir\AR_Z_main\ARZM\ARZM_repo\ARZm\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 80f94190b6d2d301
   metroApplicationDescription: ARZm
   wsaImages: {}
   metroTileShortName: 
