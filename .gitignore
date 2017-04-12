@@ -2,6 +2,16 @@
 /[Tt]emp/
 /[Oo]bj/
 
+
+/ARZm/[Ll]ibrary/
+/ARZm/[Tt]emp/
+/ARZm/[Oo]bj/
+
+/ARZm/[Ll]ibrary/*
+/ARZm/[Tt]emp/*
+/ARZm/[Oo]bj/*
+
+
 /[Bb]uild/
 /[Bb]uilds/
 /[Ee]xternal/
