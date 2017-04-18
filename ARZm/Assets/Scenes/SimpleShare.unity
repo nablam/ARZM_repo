@@ -306,7 +306,7 @@ MonoBehaviour:
   AutoDiscoverServer: 0
   PingIntervalSec: 2
   IsAudioEndpoint: 0
-  ShowDetailedLogs: 0
+  ShowDetailedLogs: 1
 --- !u!4 &1550912798
 Transform:
   m_ObjectHideFlags: 0
